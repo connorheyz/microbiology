@@ -1,8 +1,8 @@
 ### Table of Contents
 - Microbiologist Attributes
 - Microbiologist Requirements
-- Micro
+- Microbiologist Responsiblilites
 # Microbiology Requirements
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTk2NjZdfQ==
+eyJoaXN0b3J5IjpbMjExNzQ1MTk5XX0=
 -->
