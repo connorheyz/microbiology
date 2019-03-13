@@ -3,6 +3,7 @@
 - Microbiologist Requirements
 - Microbiologist Responsiblilites
 # Microbiology Requirements
+## Education
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzQ1MTk5XX0=
+eyJoaXN0b3J5IjpbOTEyNTgyODY5LDIxMTc0NTE5OV19
 -->
