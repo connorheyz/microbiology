@@ -8,12 +8,7 @@ Some microbiologists practice with two-year associate degrees in a scientific fi
 > "Microbiologist." _Bioscience Careers_, www.aboutbioscience.org/careers/  
 microbiologist/. Accessed 13 Mar. 2019.
 
-Here is a list of colleges that have classes in microbiology-related fields.
- chool Name
-
-Location
-
-Distinction
+Here is a list of colleges that have classes in microbiology-related fields:
 
 - **New York University**
 
@@ -21,29 +16,29 @@ Distinction
 
 	 - Ranked #36 among all national universities, according to _U.S. News & World Report_ in 2016
 
-**Pennsylvania State University**
+ - **Pennsylvania State University**
 
-University Park, PA
+	 - University Park, PA
 
-The University Park campus derives research funding from the National Institutes of Health and the Cancer Research Institute
+	 - The University Park campus derives research funding from the National Institutes of Health and the Cancer Research Institute
 
-**University of Illinois at Urbana-Champaign**
+ - **University of Illinois at Urbana-Champaign**
 
-Champaign, IL
+	 - Champaign, IL
 
-Microbiology students have access to 21 research laboratories
+	 - Microbiology students have access to 21 research laboratories
 
-**University of Michigan - Ann Arbor**
+ - **University of Michigan - Ann Arbor**
 
-Ann Arbor, Michigan
+	 - Ann Arbor, Michigan
 
-In 2014, _U.S. News & World Report_ ranked the university as the 19th-best school offering graduate programs in the biological sciences
+	 - In 2014, _U.S. News & World Report_ ranked the university as the 19th-best school offering graduate programs in the biological sciences
 
-**University of Minnesota-Twin Cities**
+ - **University of Minnesota-Twin Cities**
 
-Minneapolis, MN
+	 - Minneapolis, MN
 
-Students can attend microbiology, immunology, cancer biology, and leadership seminar series
+	 - Students can attend microbiology, immunology, cancer biology, and leadership seminar series
 
 **University of Texas at Austin**
 
@@ -61,6 +56,6 @@ To become a microbiologist, one must attain a bachelor’s degree in a related f
 >"Microbiologist." _Bioscience Careers_, www.aboutbioscience.org/careers/  
 microbiologist/. Accessed 13 Mar. 2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc0MjAxNDcsMTExMDEyMjc1MCwxNz
-g5MTgxNjk5LDIxMTc0NTE5OV19
+eyJoaXN0b3J5IjpbMzI4NDQ3MDk4LDExMTAxMjI3NTAsMTc4OT
+E4MTY5OSwyMTE3NDUxOTldfQ==
 -->
