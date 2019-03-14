@@ -40,22 +40,22 @@ Here is a list of colleges that have classes in microbiology-related fields:
 
 	 - Students can attend microbiology, immunology, cancer biology, and leadership seminar series
 
-**University of Texas at Austin**
+ - **University of Texas at Austin**
 
-Austin, TX
+	 - Austin, TX
 
-Core facilities cover microscopy & imaging, DNA sequencing, macromolecular crystallography, and more
+	 - Core facilities cover microscopy & imaging, DNA sequencing, macromolecular crystallography, and more
 
-**University of Wisconsin - Madison**
+ - **University of Wisconsin - Madison**
 
-Madison, WI
+	 - Madison, WI
 
-In 2014, _U.S. News & World Report_ ranked the university the 18th-best school with graduate-level biological sciences programs
+	 - In 2014, _U.S. News & World Report_ ranked the university the 18th-best school with graduate-level biological sciences programs
 ## Certification
 To become a microbiologist, one must attain a bachelor’s degree in a related field such as biology, chemistry or physics. In most cases, a master’s degree, a PhD or both can help give a microbiologist the upper hand in determining what he or she will do for a living and what his or her ultimate salary will be.
 >"Microbiologist." _Bioscience Careers_, www.aboutbioscience.org/careers/  
 microbiologist/. Accessed 13 Mar. 2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NDQ3MDk4LDExMTAxMjI3NTAsMTc4OT
-E4MTY5OSwyMTE3NDUxOTldfQ==
+eyJoaXN0b3J5IjpbLTczNTcyNzc5OCwxMTEwMTIyNzUwLDE3OD
+kxODE2OTksMjExNzQ1MTk5XX0=
 -->
