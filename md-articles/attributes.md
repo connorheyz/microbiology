@@ -1,3 +1,10 @@
+<div style="background-color: #333;overflow:hidden;" class="topnav">  
+<a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" class="active" href="index.html">Home</a>  
+<a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" href="attributes.html">Attributes</a>
+<a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" href="requirements.html">Requirements</a>
+<a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" href="responsibilities.html">Responsibilities</a>  
+</div>
+
 # Microbiology Attributes
 ## Common Microbilogy Tasks
 - Isolate and make cultures of bacteria or other microorganisms in prescribed media, controlling moisture, aeration, temperature, and nutrition.  
@@ -31,5 +38,5 @@ On top of these job abilities, you will need to be good at the following activit
 >"Job Duties and Tasks for: 'Microbiologist.'" _Career Planner_,  
 job-descriptions.careerplanner.com/Microbiologists.cfm. Accessed 12 Mar.  2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjM1MTc5XX0=
+eyJoaXN0b3J5IjpbMTkwOTYwODUxM119
 -->
