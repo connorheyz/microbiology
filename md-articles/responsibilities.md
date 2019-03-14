@@ -6,7 +6,9 @@ Food_Microbiologist_Job_Description_Duties_and_Requirements.html. Accessed
 13 Mar. 2019.
 ## Viral Microbiology
 Viral microbiologists keep our bodies safe and healthy. They are usually employed by universities or private companies to research ways to keep us safe on the inside. A viral microbiologist is responsible for figuring out how viruses and bacteria work. Microbiologists also develop ways to combat viruses and bacteria such as vaccines and antibacterial medicine.
+> "Microbiologists." _CollegeGrad_, collegegrad.com/careers/microbiologists.  
+Accessed 13 Mar. 2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEyMTYyODksLTExNTIwNDkxNTRdfQ
-==
+eyJoaXN0b3J5IjpbLTEwOTY3MTkyMjAsLTIwNTEyMTYyODksLT
+ExNTIwNDkxNTRdfQ==
 -->
