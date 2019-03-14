@@ -6,12 +6,12 @@
 </div>
 
 # Microbiology Career Exploration
-This webpage lets you explore the different aspects of being a microbiologist. Use the table of contents ot
+This webpage lets you explore the different aspects of being a microbiologist. Use the table of contents or the navigation bar to get started.
 ## Table of Contents
  - [**Attributes**](attributes.html)
  - [**Requirements**](requirements.html)
  - [**Responsibilities**](responsibilities.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzEzNTgsLTE2NjAzMzg5MDIsLTExMT
-A2OTE0XX0=
+eyJoaXN0b3J5IjpbLTE3ODEwOTc4NzAsLTE2NjAzMzg5MDIsLT
+ExMTA2OTE0XX0=
 -->
