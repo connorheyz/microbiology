@@ -7,10 +7,10 @@
 
 # Microbiology Career Exploration
 ## Table of Contents
- - [**Attributes**
- - **Requirements**
- - **Responsibilities**
+ - [**Attributes**](attributes.html)
+ - [**Requirements**](requirements.html)
+ - [**Responsibilities**](responsibilities.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzQwNjAxNywtMTY2MDMzODkwMiwtMT
+eyJoaXN0b3J5IjpbLTY5NzgyODE4MywtMTY2MDMzODkwMiwtMT
 ExMDY5MTRdfQ==
 -->
