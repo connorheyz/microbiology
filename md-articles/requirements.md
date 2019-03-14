@@ -51,11 +51,15 @@ Here is a list of colleges that have classes in microbiology-related fields:
 	 - Madison, WI
 
 	 - In 2014, _U.S. News & World Report_ ranked the university the 18th-best school with graduate-level biological sciences programs
+
+> "Top Microbiology Schools and Colleges in the U.S." _Study_, study.com/articles/  
+Top_Microbiology_Schools_and_Colleges_in_the_US.html. Accessed 13 Mar.  
+>2019. Editorial.
 ## Certification
 To become a microbiologist, one must attain a bachelor’s degree in a related field such as biology, chemistry or physics. In most cases, a master’s degree, a PhD or both can help give a microbiologist the upper hand in determining what he or she will do for a living and what his or her ultimate salary will be.
 >"Microbiologist." _Bioscience Careers_, www.aboutbioscience.org/careers/  
 microbiologist/. Accessed 13 Mar. 2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTcyNzc5OCwxMTEwMTIyNzUwLDE3OD
-kxODE2OTksMjExNzQ1MTk5XX0=
+eyJoaXN0b3J5IjpbLTE0ODIxOTY5NDgsLTczNTcyNzc5OCwxMT
+EwMTIyNzUwLDE3ODkxODE2OTksMjExNzQ1MTk5XX0=
 -->
