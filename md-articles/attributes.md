@@ -8,33 +8,14 @@
 # Microbiology Attributes
 ## Average Salary
 | Federal government, excluding postal service | $101,320 |
-|-|-|
+|:-|-|
 | Research and development in the physical, engineering, and life sciences | 74,750 |
-|-|-|
-| Pharmaceutical and medicine manufacturing |  |
-|-|-|
-| State government, excluding education and hospitals |  |
-|-|-|
-| Colleges, universities, and professional schools; state, local, and private |  |
+| Pharmaceutical and medicine manufacturing | 61,880 |
+| State government, excluding education and hospitals | 53,670 |
+| Colleges, universities, and professional schools; state, local, and private | 49,300 |
+>"Microbiologists." _CollegeGrad_, collegegrad.com/careers/microbiologists.  
+Accessed 13 Mar. 2019.
 
-
-
-
-
-
-
-
-
-
-61,880
-
-
-
-53,670
-
-
-
-49,300
 ## Common Microbilogy Tasks
 - Isolate and make cultures of bacteria or other microorganisms in prescribed media, controlling moisture, aeration, temperature, and nutrition.  
   
@@ -67,5 +48,5 @@ On top of these job abilities, you will need to be good at the following activit
 >"Job Duties and Tasks for: 'Microbiologist.'" _Career Planner_,  
 job-descriptions.careerplanner.com/Microbiologists.cfm. Accessed 12 Mar.  2019.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyOTc3MTA3LDE5MDk2MDg1MTNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDExODUwMCwxOTA5NjA4NTEzXX0=
 -->
